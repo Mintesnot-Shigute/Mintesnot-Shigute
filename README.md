@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mintesnot-shigute&label=Profile%20views&color=0e75b6&style=flat" alt="mintesnot-shigute" /> </p>
 
-- 🔭 I’m currently working on **Recruitment Management System**
+- 🔭 I’m currently working on **Website for a Business Company**
 
 - 🌱 I’m currently learning **VueJS,Flutter**
 
-- 💬 Ask me about **Python,Postgres ,React , NodeJs**
+- 💬 Ask me about **Python,NextJs,ReactJS,NodeJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
