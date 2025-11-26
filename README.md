@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **VueJS,Flutter**
 
-- 💬 Ask me about **Python,NextJs,ReactJS,NodeJs**
+- 💬 Ask me about **Python,NextJs,ReactJS,NodeJs Redux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
